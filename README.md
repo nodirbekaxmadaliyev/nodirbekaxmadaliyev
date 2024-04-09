@@ -4,7 +4,7 @@
 ## 15.08.2003
 ### Men Axmadaliyev Nodirbek Tohirjon o'g'li 2003-yilning 15-avgustida Namangan viloyati To'raqo'rg'on tumanida tavallud topganman. Hozirda [***Toshkent Axborot Texnologiyalari Universiteti***](https://tuit.uz/) talabasiman.<hr>
 # LeetCode status:<br>
-[](https://leetcode.com/nodirbek_cpp/)
+![](https://leetcard.jacoblin.cool/nodirbek_cpp?ext=heatmap)
 ## Bog'lanish:
 ## Tel: +998 94 014 4888
 
