@@ -1,4 +1,4 @@
-# Hello There!<br>
+# Assalomu alaykum!<br>
 ![Surat](picture.jpg)
 # Axmadaliyev Nodirbek Tohirjon o'g'li
 ## 15.08.2003
