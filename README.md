@@ -3,11 +3,8 @@
 # Axmadaliyev Nodirbek Tohirjon o'g'li
 ## 15.08.2003
 ### Men Axmadaliyev Nodirbek Tohirjon o'g'li 2003-yilning 15-avgustida Namangan viloyati To'raqo'rg'on tumanida tavallud topganman. Hozirda [***Toshkent Axborot Texnologiyalari Universiteti***](https://tuit.uz/) talabasiman.<hr>
-## Tahsil olgan joylarim:
-1. #### To'raqo'rg'on tumanidagi 52-maktab 2011-2018-yillar
-2. #### To'raqo'rg'on tumanidagi 17-sonli DIMI 2018-2021-yillar
-3. #### Toshkent shaxridagi TATU universitetida 2021-yildan buyon
-
+# LeetCode status:<br>
+[](https://leetcode.com/nodirbek_cpp/)
 ## Bog'lanish:
 ## Tel: +998 94 014 4888
 
